@@ -1,4 +1,9 @@
 [Main Page](https://yolanda-ht.github.io/YoloArtBlob/)
 
-# YoloArtBlob
-Art Favs &amp; Finds
+# Yolo Art Blob
+> Art Favs & Finds
+
+## Artists
+| Name | Year | Origin | Genre | Notes |
+| ---- | ---- | ------ | ----- | ----- |
+| 
